@@ -1,0 +1,13 @@
+{
+  "type": "package",
+  "package": {
+        "name": "hblomme/test",
+        "version": "2.0",
+        "type":"drupal-theme",
+        "source": {
+            "url": "https://github.com/hblomme/test.git",
+            "type": "git",
+            "reference": "8.x-2.x"
+        }
+    }
+}
